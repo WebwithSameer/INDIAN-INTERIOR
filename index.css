@@ -530,7 +530,8 @@ h4:hover {
    
 
       .left li a{
-        margin: -19px 0px;
+       margin: -23px 0px;
+    font-size: 22px;
       }
       .navbar ol.left h4 {
         margin-top: 2px;
